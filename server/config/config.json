@@ -7,17 +7,17 @@
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "cl9dfbvch0000boo247q663m4",
+    "password": "RnSu4WGInpplAYcaQ5Sv1QZY",
+    "database": "le_chalet_db_test",
+    "host": "cl9dfbvcl0004o2boetrv3ghs",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "cl9dfbvch0000boo247q663m4",
+    "password": "RnSu4WGInpplAYcaQ5Sv1QZY",
+    "database": "le_chalet_db_prod",
+    "host": "cl9dfbvcl0004o2boetrv3ghs",
     "dialect": "mysql"
   }
 }
