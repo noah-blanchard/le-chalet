@@ -8,14 +8,14 @@
   },
   "test": {
     "username": "cl9ftfsq3000cboo2h7bu2oee",
-    "password": "cl9ftfsq1000aboo2a1gd6ua6",
+    "password": "RJoSKQRayLmsrRFYiNlyKV9F",
     "database": "cl9ftfsq5000ro2bo69a0fvod",
     "host": "cl9ftfsq5000ro2bo69a0fvod",
     "dialect": "mysql"
   },
   "production": {
     "username": "cl9ftfsq3000cboo2h7bu2oee",
-    "password": "cl9ftfsq1000aboo2a1gd6ua6",
+    "password": "RJoSKQRayLmsrRFYiNlyKV9F",
     "database": "cl9ftfsq5000ro2bo69a0fvod",
     "host": "cl9ftfsq5000ro2bo69a0fvod",
     "dialect": "mysql"
